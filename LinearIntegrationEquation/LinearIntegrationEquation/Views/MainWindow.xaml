@@ -1,0 +1,89 @@
+﻿<Window x:Class="LinearIntegrationEquation.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:controls="clr-namespace:Infragistics.Controls.Charts;assembly=DataChart3D"
+        xmlns:common="clr-namespace:Infragistics.Common;assembly=DataChart3D"
+        Title="MainWindow" Height="768" Width="1024" >
+    <Grid>
+        <ScrollViewer>
+            <StackPanel>
+                <Grid MinHeight="750" Width="1000" >
+                    <Grid Background="{DynamicResource ApplicationBackgroundBrush}">
+                        <Grid.Resources>
+                            <Style BasedOn="{StaticResource TextBlockStyle}" TargetType="TextBlock">
+                                <Setter Property="FontSize" Value="13.333"/>
+                                <Setter Property="Padding" Value="5"/>
+                            </Style>
+                            <Style x:Key="titleStyle" TargetType="TextBlock">
+                                <Setter Property="FontSize" Value="20" />
+                            </Style>
+                        </Grid.Resources>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <controls:ScatterSurface3D x:Name="Chart" FontSize="13.333" Grid.Column="0" MinHeight="800"
+                                   ItemsSource="{Binding Data}"
+                                   XMemberPath="X" YMemberPath="Y" ValueMemberPath="Z" 
+                                   Foreground="{StaticResource ForegroundBrush}">
+                            <controls:ScatterSurface3D.XAxis>
+                                <common:LinearScale LabelFormat="{}{0:N{precision}}" Title="X Axis">
+                                    <common:LinearScale.TitleStyle>
+                                        <Style TargetType="TextBlock" BasedOn="{StaticResource titleStyle}">
+                                            <Style.Setters>
+                                                <Setter Property="Padding" Value="0,50,0,0" />
+                                            </Style.Setters>
+                                        </Style>
+                                    </common:LinearScale.TitleStyle>
+                                </common:LinearScale>
+                            </controls:ScatterSurface3D.XAxis>
+                            <controls:ScatterSurface3D.YAxis>
+                                <common:LinearScale LabelFormat="{}{0:N{precision}}" Title="Y Axis">
+                                    <common:LinearScale.TitleStyle>
+                                        <Style TargetType="TextBlock" BasedOn="{StaticResource titleStyle}">
+                                            <Style.Setters>
+                                                <Setter Property="Padding" Value="0,50,0,0" />
+                                            </Style.Setters>
+                                        </Style>
+                                    </common:LinearScale.TitleStyle>
+                                </common:LinearScale>
+                            </controls:ScatterSurface3D.YAxis>
+                            <controls:ScatterSurface3D.ValueAxis>
+                                <common:LinearScale x:Name="ValueAxis" MaximumValue="1" 
+                                    Colors="#BF00AADE #BFFCA910 #BFAD0F31" LabelFormat="{}{0:N{precision}}" 
+                                    Title="Z Axis">
+                                    <common:LinearScale.TitleStyle>
+                                        <Style TargetType="TextBlock" BasedOn="{StaticResource titleStyle}">
+                                            <Style.Setters>
+                                                <Setter Property="Padding" Value="0,0,90,0" />
+                                            </Style.Setters>
+                                        </Style>
+                                    </common:LinearScale.TitleStyle>
+                                </common:LinearScale>
+                            </controls:ScatterSurface3D.ValueAxis>
+                        </controls:ScatterSurface3D>
+
+                       
+                        <TextBlock x:Name="StatusText" FontSize="14.667"  VerticalAlignment="Bottom" Margin="12" IsHitTestVisible="False"/>
+                    </Grid>
+                </Grid>
+                <Grid>
+                    <StackPanel>
+                        <TextBox Height="50"  Margin="50" Text="{Binding InputValues.Count, UpdateSourceTrigger=PropertyChanged}" FontSize="24" TextAlignment="Center"></TextBox>
+                        <Button Height="50" VerticalAlignment="Bottom" Command="{Binding Solve}" Content="Solve" FontSize="24"></Button>
+                        <DataGrid x:Name="DataGrid" ItemsSource="{Binding Data}" AutoGenerateColumns="False" x:FieldModifier="public" IsReadOnly="True" >
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="X" Binding="{Binding X}"/>
+                                <DataGridTextColumn Header="Y" Binding="{Binding Y}"/>
+                                <DataGridTextColumn Header="Z" Binding="{Binding Z}"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+       
+    </Grid>
+   
+</Window>

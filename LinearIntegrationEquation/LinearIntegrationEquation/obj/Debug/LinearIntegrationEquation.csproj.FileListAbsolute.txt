@@ -1,0 +1,68 @@
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.pdb
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csprojResolveAssemblyReference.cache
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.g.cs
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation_MarkupCompile.cache
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.g.resources
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.Properties.Resources.resources
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csproj.GenerateResource.Cache
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.baml
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.pdb
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LiveCharts.dll
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csprojResolveAssemblyReference.cache
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.baml
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.g.cs
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation_MarkupCompile.cache
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.g.resources
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.Properties.Resources.resources
+C:\Users\Надя\Documents\Visual Studio 2013\Projects\4 курс\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csproj.GenerateResource.Cache
+E:\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+E:\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+E:\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\DataChart3D.dll
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Themes\Generic.baml
+G:\Programs\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.baml
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.pdb
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\DataChart3D.dll
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csprojResolveAssemblyReference.cache
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Themes\Generic.baml
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.baml
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.baml
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.g.cs
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.g.cs
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation_MarkupCompile.cache
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.g.resources
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.Properties.Resources.resources
+G:\Programs\LinearIntegrationEquationA\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csproj.GenerateResource.Cache
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquation\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquation\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquation\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe.config
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.exe
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.pdb
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.exe
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\LinearIntegrationEquation.pdb
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\bin\Debug\DataChart3D.dll
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csprojResolveAssemblyReference.cache
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Themes\Generic.baml
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.baml
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.baml
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\App.g.cs
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation_MarkupCompile.cache
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.g.resources
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.Properties.Resources.resources
+C:\Users\Мар'ян\Documents\GitHub\LinearIntegrationEquationsProject\LinearIntegrationEquation\LinearIntegrationEquation\obj\Debug\LinearIntegrationEquation.csproj.GenerateResource.Cache
